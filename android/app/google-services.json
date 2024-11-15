@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28152228755",
+    "project_id": "fir-project1-e2f88",
+    "storage_bucket": "fir-project1-e2f88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28152228755:android:52e7907c64b4af2a3d1666",
+        "android_client_info": {
+          "package_name": "com.example.bolt_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLEq7WfAdsXB9y93JyM-kF3EBw1CW2C9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
